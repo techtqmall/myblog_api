@@ -1,6 +1,6 @@
 # 项目dockerfile镜像文件
 #FROM python:3.10
-FROM myblog_env:v2
+FROM registry.cn-hangzhou.aliyuncs.com/myblog_env/myblog_env:v2
 RUN ln -sf /usr/share/zoneinfo/Asia/Shanghai /etc/localtime && echo 'Asia/Shanghai' >/etc/timezone && pip config set global.index-url https://mirrors.aliyun.com/pypi/simple/
 ADD . /opt/myblog_api/
 RUN pip install -r /opt/myblog_api/requirements.txt && pip install uwsgi
