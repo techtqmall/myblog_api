@@ -9,12 +9,16 @@
 
 ### 功能模块
 * 内容管理
+    
     包含博客文章详细内容查看、文章分类、文章标签、博客笔记、笔记目录、猜你喜欢、文章归档等功能。
 * 网站管理
+    
     包含轮播图、关于页、友情链接、博主信息、网站配置、数据统计等功能。
 * 用户管理
+    
     包含用户登录、用户注册、找回密码、修改密码、修改联系方式、第三方登录、用户信息修改等功能。
 * 行为记录
+    
     包含搜索记录、留言记录、文章评论记录、文章收藏记录、笔记评论记录、笔记收藏记录、数据统计等功能
 
 ### 关联项目
@@ -23,9 +27,24 @@
     [gitee](https://gitee.com/cuiliang0302/myblog_api)
 
     [github](https://github.com/cuiliang0302/myblog_api)
+
 * 博客网站桌面端前端
+
+    [gitee](https://gitee.com/cuiliang0302/myblog_pc)
+
+    [github](https://github.com/cuiliang0302/myblog_pc)
+
 * 博客网站移动端前端
+
+    [gitee](https://gitee.com/cuiliang0302/myblog_mobile)
+
+    [github](https://github.com/cuiliang0302/myblog_mobile)
+
 * 博客网站管理员后台
+
+    [gitee](https://gitee.com/cuiliang0302/myblog_admin)
+
+    [github](https://github.com/cuiliang0302/myblog_admin)
 
 ## 项目部署
 ### MySQL部署
